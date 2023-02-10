@@ -1,0 +1,2 @@
+# DrawTriangle
+void DrawTriangle()
